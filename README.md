@@ -1,5 +1,5 @@
 # HTML - Hyper Text Markup Language.
-This repository is containing everything about the *** HTML - Hyper Text Markup Language ***. You don't need to read any repository further to  learn all the tag in the HTML.
+This repository is containing everything about the ***HTML - Hyper Text Markup Language***. You don't need to read any repository further to  learn all the tag in the HTML.
 ## The summary about the repository.
 * Everthing about the html and more than 100 tag are available in this repository.
 *  Catagory wise tag list.
