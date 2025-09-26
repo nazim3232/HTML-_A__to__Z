@@ -1,0 +1,22 @@
+These are the catagory of the html element : 
+
+📦 Container Tags:
+html, head, body, div, span, section, article, nav, main, aside, header, footer
+
+🧱 Block-Level Tags:
+div, p, h1, h2, h3, h4, h5, h6, ul, ol, li, table, thead, tbody, tfoot, tr, td, th, form, section, article, nav, header, footer, main, aside, blockquote, pre, figure, figcaption
+
+📌 Inline Tags:
+span, a, img, strong, em, b, i, u, small, sub, sup, br, label, input, select, textarea, button, abbr, cite, code, mark, time, q
+
+🧠 Semantic Tags:
+header, footer, main, section, article, aside, nav, figure, figcaption, mark, time, details, summary, address
+
+🧱 Non-Semantic Tags:
+div, span, b, i, u, font, center
+
+🕳️ Empty (Void) Tags:
+br, hr, img, input, meta, link, source, area, base, col, embed, track, wbr
+
+⭐ Most Commonly Used Tags:
+html, head, body, title, meta, link, script, style, div, span, p, a, img, ul, li, table, form, input, button, h1, h2, h3, h4, h5, h6
