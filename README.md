@@ -15,4 +15,7 @@ This repository is containing everything about the ***HTML - Hyper Text Markup L
 
 ## Overall this repository will help you to get overall idea about the html from the 0 to advance.
 
+### Total 110 tag was covered in this repository.
+
+
 
