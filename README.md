@@ -16,8 +16,24 @@ This repository is containing everything about the ***HTML - Hyper Text Markup L
 In ths repositoty all the trag are existing in the folder where there name start with the first later of the folder name. 
 Such as ***a.html containing the all the html tag that start with the name of the a like <abbr> , <a> <area> tag.*** 
 #### Folder structure: 
+```
+.
+├── src/
+│   ├── components/
+│   │   ├── Button.js
+│   │   └── Header.js
+│   ├── pages/
+│   │   ├── Home.js
+│   │   └── About.js
+│   └── App.js
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── package.json
+├── README.md
+└── .gitignore
 
-
+```
 ## Overall this repository will help you to get overall idea about the html from the 0 to advance.
 
 ### Total 110 tag was covered in this repository.
