@@ -17,5 +17,7 @@ This repository is containing everything about the ***HTML - Hyper Text Markup L
 
 ### Total 110 tag was covered in this repository.
 
+####                              Happy HTML day :smiley:
+
 
 
