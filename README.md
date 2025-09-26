@@ -12,6 +12,11 @@ This repository is containing everything about the ***HTML - Hyper Text Markup L
                    ```
  *  And difference between head and body in a html page.
 
+### Folder structure of the repository
+In ths repositoty all the trag are existing in the folder where there name start with the first later of the folder name. 
+Such as ***a.html containing the all the html tag that start with the name of the a like <abbr> , <a> <area> tag.*** 
+#### Folder structure: 
+
 
 ## Overall this repository will help you to get overall idea about the html from the 0 to advance.
 
