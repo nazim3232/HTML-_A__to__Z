@@ -18,20 +18,35 @@ Such as ***a.html containing the all the html tag that start with the name of th
 #### Folder structure: 
 ```
 .
-├── src/
-│   ├── components/
-│   │   ├── Button.js
-│   │   └── Header.js
-│   ├── pages/
-│   │   ├── Home.js
-│   │   └── About.js
-│   └── App.js
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── package.json
-├── README.md
-└── .gitignore
+├── NameOf(Q-T)/
+│   ├── s.html
+│   └── t.html
+├── Name0f(u-z)/
+│   └── (u-z).html
+├── NameOfA/
+│   ├── a.html
+│   ├── image 
+│   └── audio-music
+├── Name0f_E-H/
+│   ├── ef.html
+│   └── h.html
+├── NameOf(I-L)/
+│   ├── i.html
+│   └── h.html
+├── NameOf(M-P)/
+│   ├── m.html
+│   └── oandP.html
+├── NameOfB/
+│   └── b.html
+├── NameOfC/
+│   └── c.html
+├── NameOfD/
+│   └── d.html
+├── tagCatagory_information/
+│   └── innfo.txt
+├── .gitignore
+└── README.md
+
 
 ```
 ## Overall this repository will help you to get overall idea about the html from the 0 to advance.
